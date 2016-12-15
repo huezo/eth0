@@ -1,0 +1,6 @@
+{
+  "name": "Eth0",
+  "tagline": "Cambiar nombre de red predeterminado (ens33) a  \"eth0\" en Ubuntu y derivados ",
+  "body": "Cambiar nombre de red predeterminado (ens33) a  \"eth0\" en Ubuntu y derivados \r\n\r\n`sudo chmod 777 -R ethx.sh`\r\n\r\n`sudo ./ethx.sh`\r\n\r\n\r\n[https://huezohuezo1990.wordpress.com/](https://huezohuezo1990.wordpress.com/)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
