@@ -1,0 +1,8 @@
+title: Eth0
+description: "Cambiar nombre de red predeterminado (ens33) a  \"eth0\" en Ubuntu y derivados "
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
